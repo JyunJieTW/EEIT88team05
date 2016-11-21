@@ -5,10 +5,16 @@
 <li>SQL Server 2012</li>
 <li>Servlet</li>
 <li>Jsp</li>
+<li>Javasprict</li>
 <li>Bootstrap</li>
 <li>Spring</li>
 <li>Hibernate</li>
 </ol>
+<h2>簡介</h2>
+  我們是一個提供訂房以及旅遊套裝行程網站，依照自己符合天數訂購房間，
+  網站會蒐集好玩景點供參考，再推出適合的旅程，
+  讓你在住宿期間有適合景點或是不知道去哪玩作為選購，
+  內容都提供評價以及大家評論作為依據。
 <h2>首頁</h2>
 <img src="https://lh3.googleusercontent.com/3mf8VQUHnzFePjNiwIPWe-zFyZQlcFKZhiXqsnzvtgIjL5lBK8xMR2YzeCNeVZ2_i0Uut-BS0HyupC7XOHwQWivbrEYcjp-3Uj2jU0bkDLFVgsY_1p6ZEMvcKUpbtcX59orJEEYRzBnnt6-wDY-LTeerXonlFZYL9X_lzYE1nGPbBxeZPvFTKmXz7SUINecZOGkm54AQR-5vxQ_inVTnZX7cT2A5pXm6xKhliKzflyDFuq40OHXEecXycNw6bjQfBB98O-sdFgaD7vO6UQf2wrraVibuXRsjMUGiQDw53zo-pKDP790MKQ2bSGms3bdtUDCj9JfyKYAl4i32B8az0hC8q4_BToLAXys2RgwCBecQlHVDW1vUYYcnsHqm6fb3h9R3HPD8Fy7AJz7z8qfzzoS7tUD0zWSsYp6YL8KkuvvCVlSk33GdvO3LNwi0I-kyg8Gf2EJT3AF3D0xjUaTqEekn_HFjathfI5mifrJd1MSKBH6yJMgc6s0PKxpD7SwKhihE0LIExMztiCWJXgWhV0tWiCh3Fsrc8VeE3kmuE6KgLZQHF1n-G8586ok16iNjk6GHvpfMfdvmqh-mz0sNjqJwvZL0PvTkre5MSUjnZvMuGFkM=w1060-h515-no" alt="Alt text"  style="max-width:100%;">
 <h2>帳號登入</h2>
